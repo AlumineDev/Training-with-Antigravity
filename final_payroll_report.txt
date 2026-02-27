@@ -1,0 +1,18 @@
+========================================
+   ANTIGRAVITY OFFICIAL PAYROLL REPORT  
+========================================
+
+PAYEE: John Doe        | NET REMITTANCE: $3,520.00
+PAYEE: Jane Smith      | NET REMITTANCE: $4,800.00
+PAYEE: Carlos Ruiz     | NET REMITTANCE: $2,640.00
+PAYEE: Anna Mueller    | NET REMITTANCE: $6,160.00
+PAYEE: Luis Garcia     | NET REMITTANCE: $1,360.00
+PAYEE: Marie Curie     | NET REMITTANCE: $5,280.00
+PAYEE: Albert Einstein | NET REMITTANCE: $6,560.00
+PAYEE: Rosa Park       | NET REMITTANCE: $1,920.00
+PAYEE: Nikola Tesla    | NET REMITTANCE: $4,320.00
+PAYEE: Grace Hopper    | NET REMITTANCE: $10,000.00
+
+----------------------------------------
+TOTAL COMPANY OUTFLOW: $46560.0
+----------------------------------------

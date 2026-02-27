@@ -13,6 +13,11 @@ Unlike standard AI-generated projects, this repo follows a strict **Pedagogical 
 ## 🛤️ Progress Tracker
 
 ### ✅ Phase 1: The Brain (Core Logic) - COMPLETED
+> **Student Reflections on Phase 1:**
+> *   **Variables & Lists**: "They are the base of programming. The options are infinite; you can store and take each value inside of them."
+> *   **The For Loop**: "I see it like a small machine. You give it an order and it starts to run in circles. If you don't tell it to stop, it never stops!"
+> *   **Functions**: "You write a lot of data and instructions, then you just call them. You can see the result of many operations at once without repeating yourself."
+
 *   **Variables & Operators**: Calculating complex tax and salary logic.
 *   **Lists & Collections**: Processing large payroll datasets.
 *   **Control Flow (If/Else)**: Designing "smart" logic for bonuses and top earners.

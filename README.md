@@ -25,9 +25,14 @@ Unlike standard AI-generated projects, this repo follows a strict **Pedagogical 
 *   **Automation**: Building a standalone Folder Scanner tool.
 
 ### 🏗️ Phase 2: Data & Assets - IN PROGRESS
-*   **External Data**: Processing CSV and Excel files.
+> **Student Reflections on Lesson 4 (External Data):**
+> *   **Imports & Libraries**: "The import is important because the interpreter cannot read all types of data or files. We need specific libraries. In this case, we used the CSV library to understand tables of numbers and letters."
+> *   **Linking Data**: "I understand that you only need to link the file to your project to start processing it."
+> *   **Global vs. Specific Logic**: "Applying a flat 20% tax to the whole table is the professional way when the rule is the same for everyone. But if branches had different taxes, specifying the math inside the 'if/else' would be the correct method."
+
+*   **External Data**: Processing CSV and Excel files. ✅
+-   **Integration**: Combining file reading with functions, loops, and logic. ✅
 *   **Error Handling**: Making scripts robust for real-world messy data.
-*   **GUI Development**: Turning scripts into professional desktop applications.
 
 ---
 
